@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Мой Сайт</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+    header {
+      background: #333;
+      color: white;
+      padding: 2em 0;
+    }
+    section {
+      padding: 2em;
+    }
+    footer {
+      background: #222;
+      color: #aaa;
+      padding: 1em 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Добро пожаловать на мой сайт!</h1>
+    <p>Простой лендинг на HTML и CSS</p>
+  </header>
+  <section>
+    <h2>О нас</h2>
+    <p>Мы создаем красивые и функциональные сайты для бизнеса и людей.</p>
+  </section>
+  <section>
+    <h2>Контакты</h2>
+    <p>Email: example@mail.com</p>
+  </section>
+  <footer>
+    &copy; 2025 Мой Сайт. Все права защищены.
+  </footer>
+</body>
+</html>
